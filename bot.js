@@ -10,7 +10,7 @@ client.on('ready', async() => {
 var server = "509357857666236430"; // ايدي السررفر
 var channel = "509357857666236434";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('**Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , Dream , **')
+    client.guilds.get(server).channels.get(channel).send(صلاح بحب صلاح الدين وصلاح الدين بحب صحابو وصحابو بحبو وصلاح بحب صحابوا بموت فيهم وههما بحبوا **لحب مهند**)
     },305);
 })
 
